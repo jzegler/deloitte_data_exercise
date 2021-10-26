@@ -1,2 +1,4 @@
 # deloitte_data_exercise
-First-round interview data exercise involving racing data (e.g., time, gender, division, age group)
+First-round data exercise interview involving racing data (e.g., time, gender, division, age group).
+
+Exercise required importing .txt files, cleaning data, doing calculations, and creating visualizations.
